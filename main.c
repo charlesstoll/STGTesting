@@ -7,4 +7,5 @@ int main(int argc, char *argv[])
   printf("Initial Commit\n");
   printf("patch 1");
   printf("patch 2");
+  printf("patch 3");
 }
